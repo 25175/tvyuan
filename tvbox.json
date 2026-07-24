@@ -2,17 +2,8 @@
   "spider": "",
   "sites": [
     {
-      "key": "🔰金鹰┃影视",
-      "name": "[5129KB/s|377ms|稳] 🔰金鹰┃影视",
-      "type": 1,
-      "api": "https://jyzyapi.com/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
       "key": "🎀极速┃采集",
-      "name": "[3592KB/s|527ms|稳] 🎀极速┃采集",
+      "name": "[1915KB/s|672ms|稳] 🎀极速┃采集",
       "type": 1,
       "api": "https://jszyapi.com/api.php/provide/vod/",
       "searchable": 1,
@@ -21,7 +12,7 @@
     },
     {
       "key": "🐂红牛┃采集",
-      "name": "[3385KB/s|2424ms|稳] 🐂红牛┃采集",
+      "name": "[1348KB/s|3788ms|稳] 🐂红牛┃采集",
       "type": 1,
       "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
       "searchable": 1,
@@ -29,26 +20,8 @@
       "filterable": 0
     },
     {
-      "key": "🔥️火狐┃秒播",
-      "name": "[2238KB/s|336ms|稳] 🔥️火狐┃秒播",
-      "type": 1,
-      "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "🍎高清┃2K",
-      "name": "[1862KB/s|1350ms|稳] 🍎高清┃2K",
-      "type": 1,
-      "api": "https://api.1080zyku.com/inc/apijson.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
       "key": "🌈琥珀┃影视",
-      "name": "[1666KB/s|371ms|稳] 🌈琥珀┃影视",
+      "name": "[887KB/s|563ms|稳] 🌈琥珀┃影视",
       "type": 1,
       "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8",
       "searchable": 1,
@@ -56,10 +29,28 @@
       "filterable": 0
     },
     {
+      "key": "🔥️火狐┃秒播",
+      "name": "[851KB/s|415ms|稳] 🔥️火狐┃秒播",
+      "type": 1,
+      "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
       "key": "🥣爱坤┃影视",
-      "name": "[1465KB/s|469ms|稳] 🥣爱坤┃影视",
+      "name": "[685KB/s|1261ms|稳] 🥣爱坤┃影视",
       "type": 1,
       "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "🔰金鹰┃影视",
+      "name": "[673KB/s|693ms|稳] 🔰金鹰┃影视",
+      "type": 1,
+      "api": "https://jyzyapi.com/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
