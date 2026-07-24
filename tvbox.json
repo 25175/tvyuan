@@ -3,7 +3,7 @@
   "sites": [
     {
       "key": "🔰金鹰┃影视",
-      "name": "[1448KB/s|550ms|稳] 🔰金鹰┃影视",
+      "name": "[10291KB/s|466ms|稳] 🔰金鹰┃影视",
       "type": 1,
       "api": "https://jyzyapi.com/provide/vod/",
       "searchable": 1,
@@ -11,17 +11,8 @@
       "filterable": 0
     },
     {
-      "key": "🌈琥珀┃影视",
-      "name": "[1407KB/s|521ms|稳] 🌈琥珀┃影视",
-      "type": 1,
-      "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
       "key": "🔥️火狐┃秒播",
-      "name": "[1301KB/s|568ms|稳] 🔥️火狐┃秒播",
+      "name": "[7746KB/s|551ms|稳] 🔥️火狐┃秒播",
       "type": 1,
       "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -29,17 +20,17 @@
       "filterable": 0
     },
     {
-      "key": "🐂红牛┃采集",
-      "name": "[1073KB/s|3375ms|稳] 🐂红牛┃采集",
+      "key": "🥣爱坤┃影视",
+      "name": "[4168KB/s|226ms|稳] 🥣爱坤┃影视",
       "type": 1,
-      "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
+      "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
     },
     {
       "key": "🎀极速┃采集",
-      "name": "[753KB/s|789ms|稳] 🎀极速┃采集",
+      "name": "[1274KB/s|454ms|稳] 🎀极速┃采集",
       "type": 1,
       "api": "https://jszyapi.com/api.php/provide/vod/",
       "searchable": 1,
@@ -47,10 +38,19 @@
       "filterable": 0
     },
     {
-      "key": "🥣爱坤┃影视",
-      "name": "[535KB/s|913ms|稳] 🥣爱坤┃影视",
+      "key": "🌈琥珀┃影视",
+      "name": "[545KB/s|539ms|稳] 🌈琥珀┃影视",
       "type": 1,
-      "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json",
+      "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "🐂红牛┃采集",
+      "name": "[323KB/s|2156ms|中] 🐂红牛┃采集",
+      "type": 1,
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
