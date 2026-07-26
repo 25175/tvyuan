@@ -3,7 +3,7 @@
   "sites": [
     {
       "key": "🥣爱坤┃影视",
-      "name": "[2357KB/s|1298ms|稳] 🥣爱坤┃影视",
+      "name": "[4682KB/s|500ms|稳] 🥣爱坤┃影视",
       "type": 1,
       "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json",
       "searchable": 1,
@@ -11,17 +11,17 @@
       "filterable": 0
     },
     {
-      "key": "🔰金鹰┃影视",
-      "name": "[2055KB/s|781ms|稳] 🔰金鹰┃影视",
+      "key": "🔥️火狐┃秒播",
+      "name": "[3503KB/s|414ms|稳] 🔥️火狐┃秒播",
       "type": 1,
-      "api": "https://jyzyapi.com/provide/vod/",
+      "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
     },
     {
       "key": "🎀极速┃采集",
-      "name": "[1551KB/s|689ms|稳] 🎀极速┃采集",
+      "name": "[3369KB/s|384ms|稳] 🎀极速┃采集",
       "type": 1,
       "api": "https://jszyapi.com/api.php/provide/vod/",
       "searchable": 1,
@@ -30,7 +30,7 @@
     },
     {
       "key": "🐂红牛┃采集",
-      "name": "[1249KB/s|5587ms|稳] 🐂红牛┃采集",
+      "name": "[3358KB/s|2834ms|稳] 🐂红牛┃采集",
       "type": 1,
       "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
       "searchable": 1,
@@ -38,28 +38,10 @@
       "filterable": 0
     },
     {
-      "key": "🆕非凡┃资源",
-      "name": "[917KB/s|1136ms|稳] 🆕非凡┃资源",
+      "key": "🔰金鹰┃影视",
+      "name": "[1769KB/s|340ms|稳] 🔰金鹰┃影视",
       "type": 1,
-      "api": "http://cj.ffzyapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "🍭非凡┃采集",
-      "name": "[778KB/s|1914ms|稳] 🍭非凡┃采集",
-      "type": 0,
-      "api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "🔥️火狐┃秒播",
-      "name": "[434KB/s|510ms|中] 🔥️火狐┃秒播",
-      "type": 1,
-      "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list",
+      "api": "https://jyzyapi.com/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
