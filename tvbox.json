@@ -3,7 +3,7 @@
   "sites": [
     {
       "key": "🔥️火狐┃秒播",
-      "name": "[2692KB/s|442ms|稳] 🔥️火狐┃秒播",
+      "name": "[1058KB/s|499ms|稳] 🔥️火狐┃秒播",
       "type": 1,
       "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -11,26 +11,17 @@
       "filterable": 0
     },
     {
-      "key": "🎀极速┃采集",
-      "name": "[2391KB/s|476ms|稳] 🎀极速┃采集",
-      "type": 1,
-      "api": "https://jszyapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "🥣爱坤┃影视",
-      "name": "[2033KB/s|1141ms|稳] 🥣爱坤┃影视",
-      "type": 1,
-      "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json",
+      "key": "🦚量子┃采集",
+      "name": "[658KB/s|778ms|稳] 🦚量子┃采集",
+      "type": 0,
+      "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
     },
     {
       "key": "🔰金鹰┃影视",
-      "name": "[1519KB/s|401ms|稳] 🔰金鹰┃影视",
+      "name": "[448KB/s|587ms|中] 🔰金鹰┃影视",
       "type": 1,
       "api": "https://jyzyapi.com/provide/vod/",
       "searchable": 1,
@@ -38,8 +29,17 @@
       "filterable": 0
     },
     {
+      "key": "🥣爱坤┃影视",
+      "name": "[222KB/s|1146ms|中] 🥣爱坤┃影视",
+      "type": 1,
+      "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
       "key": "🌈琥珀┃影视",
-      "name": "[1479KB/s|464ms|稳] 🌈琥珀┃影视",
+      "name": "[126KB/s|568ms|中] 🌈琥珀┃影视",
       "type": 1,
       "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8",
       "searchable": 1,
@@ -47,8 +47,17 @@
       "filterable": 0
     },
     {
+      "key": "🎀极速┃采集",
+      "name": "[123KB/s|516ms|中] 🎀极速┃采集",
+      "type": 1,
+      "api": "https://jszyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
       "key": "🐂红牛┃采集",
-      "name": "[1471KB/s|5320ms|稳] 🐂红牛┃采集",
+      "name": "[106KB/s|3940ms|中] 🐂红牛┃采集",
       "type": 1,
       "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
       "searchable": 1,
