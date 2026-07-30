@@ -2,17 +2,8 @@
   "spider": "",
   "sites": [
     {
-      "key": "🔰金鹰┃影视",
-      "name": "[1080KB/s|745ms|稳] 🔰金鹰┃影视",
-      "type": 1,
-      "api": "https://jyzyapi.com/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
       "key": "🔥️火狐┃秒播",
-      "name": "[1064KB/s|452ms|稳] 🔥️火狐┃秒播",
+      "name": "[4024KB/s|609ms|稳] 🔥️火狐┃秒播",
       "type": 1,
       "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -20,8 +11,17 @@
       "filterable": 0
     },
     {
+      "key": "🔰金鹰┃影视",
+      "name": "[2751KB/s|461ms|稳] 🔰金鹰┃影视",
+      "type": 1,
+      "api": "https://jyzyapi.com/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
       "key": "🐂红牛┃采集",
-      "name": "[847KB/s|3150ms|稳] 🐂红牛┃采集",
+      "name": "[2385KB/s|2426ms|稳] 🐂红牛┃采集",
       "type": 1,
       "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
       "searchable": 1,
@@ -30,7 +30,7 @@
     },
     {
       "key": "🌈琥珀┃影视",
-      "name": "[645KB/s|561ms|稳] 🌈琥珀┃影视",
+      "name": "[1881KB/s|574ms|稳] 🌈琥珀┃影视",
       "type": 1,
       "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8",
       "searchable": 1,
@@ -38,19 +38,19 @@
       "filterable": 0
     },
     {
-      "key": "🥣爱坤┃影视",
-      "name": "[633KB/s|1054ms|稳] 🥣爱坤┃影视",
+      "key": "🎀极速┃采集",
+      "name": "[1451KB/s|377ms|稳] 🎀极速┃采集",
       "type": 1,
-      "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json",
+      "api": "https://jszyapi.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
     },
     {
-      "key": "🎀极速┃采集",
-      "name": "[403KB/s|696ms|中] 🎀极速┃采集",
+      "key": "🥣爱坤┃影视",
+      "name": "[296KB/s|612ms|中] 🥣爱坤┃影视",
       "type": 1,
-      "api": "https://jszyapi.com/api.php/provide/vod/",
+      "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
