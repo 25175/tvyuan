@@ -3,7 +3,7 @@
   "sites": [
     {
       "key": "🔥️火狐┃秒播",
-      "name": "[2720KB/s|399ms|稳] 🔥️火狐┃秒播",
+      "name": "[4859KB/s|579ms|稳] 🔥️火狐┃秒播",
       "type": 1,
       "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -12,7 +12,7 @@
     },
     {
       "key": "🔰金鹰┃影视",
-      "name": "[2222KB/s|535ms|稳] 🔰金鹰┃影视",
+      "name": "[4050KB/s|714ms|稳] 🔰金鹰┃影视",
       "type": 1,
       "api": "https://jyzyapi.com/provide/vod/",
       "searchable": 1,
@@ -21,7 +21,7 @@
     },
     {
       "key": "🐂红牛┃采集",
-      "name": "[1368KB/s|2364ms|稳] 🐂红牛┃采集",
+      "name": "[2876KB/s|1904ms|稳] 🐂红牛┃采集",
       "type": 1,
       "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
       "searchable": 1,
@@ -30,7 +30,7 @@
     },
     {
       "key": "🌈琥珀┃影视",
-      "name": "[1218KB/s|469ms|稳] 🌈琥珀┃影视",
+      "name": "[2725KB/s|675ms|稳] 🌈琥珀┃影视",
       "type": 1,
       "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8",
       "searchable": 1,
@@ -38,19 +38,19 @@
       "filterable": 0
     },
     {
-      "key": "🥣爱坤┃影视",
-      "name": "[983KB/s|815ms|稳] 🥣爱坤┃影视",
+      "key": "🎀极速┃采集",
+      "name": "[2271KB/s|806ms|稳] 🎀极速┃采集",
       "type": 1,
-      "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json",
+      "api": "https://jszyapi.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
     },
     {
-      "key": "🎀极速┃采集",
-      "name": "[386KB/s|346ms|中] 🎀极速┃采集",
+      "key": "🥣爱坤┃影视",
+      "name": "[1987KB/s|480ms|稳] 🥣爱坤┃影视",
       "type": 1,
-      "api": "https://jszyapi.com/api.php/provide/vod/",
+      "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
