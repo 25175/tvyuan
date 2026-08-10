@@ -2,17 +2,8 @@
   "spider": "",
   "sites": [
     {
-      "key": "🦚360┃采集",
-      "name": "[3051KB/s|632ms|稳] 🦚360┃采集",
-      "type": 1,
-      "api": "https://360zy.com/api.php/provide/vod?",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
       "key": "🍚玛丽┃秒播",
-      "name": "[2905KB/s|452ms|稳] 🍚玛丽┃秒播",
+      "name": "[1403KB/s|582ms|稳] 🍚玛丽┃秒播",
       "type": 1,
       "api": "https://360zy.com/api.php/provide/vod",
       "searchable": 1,
@@ -20,8 +11,17 @@
       "filterable": 0
     },
     {
+      "key": "🦚360┃采集",
+      "name": "[684KB/s|698ms|稳] 🦚360┃采集",
+      "type": 1,
+      "api": "https://360zy.com/api.php/provide/vod?",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
       "key": "🎀极速┃采集",
-      "name": "[5470KB/s|431ms|稳] 🎀极速┃采集",
+      "name": "[3173KB/s|593ms|稳] 🎀极速┃采集",
       "type": 1,
       "api": "https://jszyapi.com/api.php/provide/vod/",
       "searchable": 1,
@@ -30,7 +30,7 @@
     },
     {
       "key": "🥣爱坤┃影视",
-      "name": "[3807KB/s|529ms|稳] 🥣爱坤┃影视",
+      "name": "[2356KB/s|884ms|稳] 🥣爱坤┃影视",
       "type": 1,
       "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json",
       "searchable": 1,
@@ -39,7 +39,7 @@
     },
     {
       "key": "🆕非凡┃资源",
-      "name": "[2549KB/s|441ms|稳] 🆕非凡┃资源",
+      "name": "[1561KB/s|589ms|稳] 🆕非凡┃资源",
       "type": 1,
       "api": "http://cj.ffzyapi.com/api.php/provide/vod/",
       "searchable": 1,
@@ -48,7 +48,7 @@
     },
     {
       "key": "🍭非凡┃采集",
-      "name": "[1978KB/s|1757ms|稳] 🍭非凡┃采集",
+      "name": "[1206KB/s|1281ms|稳] 🍭非凡┃采集",
       "type": 0,
       "api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
