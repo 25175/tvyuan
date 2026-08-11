@@ -3,7 +3,7 @@
   "sites": [
     {
       "key": "🍚玛丽┃秒播",
-      "name": "[1503KB/s|830ms|稳] 🍚玛丽┃秒播",
+      "name": "[1145KB/s|654ms|稳] 🍚玛丽┃秒播",
       "type": 1,
       "api": "https://360zy.com/api.php/provide/vod",
       "searchable": 1,
@@ -12,7 +12,7 @@
     },
     {
       "key": "🦚360┃采集",
-      "name": "[1358KB/s|1316ms|稳] 🦚360┃采集",
+      "name": "[1105KB/s|897ms|稳] 🦚360┃采集",
       "type": 1,
       "api": "https://360zy.com/api.php/provide/vod?",
       "searchable": 1,
@@ -21,7 +21,7 @@
     },
     {
       "key": "🥣爱坤┃影视",
-      "name": "[1019KB/s|792ms|稳] 🥣爱坤┃影视",
+      "name": "[762KB/s|929ms|稳] 🥣爱坤┃影视",
       "type": 1,
       "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json",
       "searchable": 1,
@@ -30,7 +30,7 @@
     },
     {
       "key": "🎀极速┃采集",
-      "name": "[721KB/s|497ms|稳] 🎀极速┃采集",
+      "name": "[719KB/s|547ms|稳] 🎀极速┃采集",
       "type": 1,
       "api": "https://jszyapi.com/api.php/provide/vod/",
       "searchable": 1,
