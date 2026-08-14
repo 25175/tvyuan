@@ -1,104 +1,101 @@
-# 2026-08-14 10:10:41
+# 2026-08-14 11:50:09
 
-[55ms] ok
+[98ms] ok
 https://gist.githubusercontent.com/ph7368/20ee6c7b64d77d82f8f4162cdd04ad61/raw/gistfile1.txt
 
-[60ms] 11
-https://cdn.jsdelivr.net/gh/liu673cn/box@main/m.json
-
-[68ms] 潇洒
-https://qist.wyfc.qzz.io/xiaosa/api.json
-
-[91ms] 荐片
+[184ms] 荐片
 https://tv.203511.xyz/0821.json
 
-[155ms] 饭太硬
-https://qist.wyfc.qzz.io/fty.json
-
-[192ms] 小盒子4K
+[249ms] 小盒子4K
 http://xhztv.top/4k.json
 
-[353ms] ok
+[272ms] 潇洒
+https://qist.wyfc.qzz.io/xiaosa/api.json
+
+[355ms] 11
+https://cdn.jsdelivr.net/gh/liu673cn/box@main/m.json
+
+[361ms] 饭太硬
+https://qist.wyfc.qzz.io/fty.json
+
+[405ms] ok
 https://raw.liucn.cc/box/m.json
 
-[433ms] 牛儿
+[434ms] 牛儿
 https://9280.kstore.space/wex.json
 
-[511ms] 少儿频道
-https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer
-
-[521ms] 饭太硬
-http://fty.888484.xyz/tv
-
-[526ms] 牛二
-https://9280.kstore.space/newwex.json
-
-[652ms] 王二小放牛娃
-http://tv.999888987.xyz
-
-[685ms] http://www.xn--sss604efuw.net/tv
-http://www.xn--sss604efuw.net/tv
-
-[709ms] 软件
-http://47.96.82.41:5188/api.json
-
-[751ms] 摸鱼儿
+[529ms] 摸鱼儿
 https://6800.kstore.vip/fish.json
 
-[771ms] 王二小接口
-http://tvbox.xn--4kq62z5rby2qupq9ub.top/
-
-[817ms] 王二小
+[684ms] 王二小
 https://9280.kstore.vip/newwex.json
 
-[904ms] my interface
+[701ms] 软件
+http://47.96.82.41:5188/api.json
+
+[718ms] 牛二
+https://9280.kstore.space/newwex.json
+
+[808ms] 王二小放牛娃
+http://tv.999888987.xyz
+
+[819ms] 饭太硬
+http://fty.888484.xyz/tv
+
+[884ms] my interface
 http://124.223.214.31:8/api.json
+
+[924ms] 王二小接口
+http://tvbox.xn--4kq62z5rby2qupq9ub.top/
+
+[993ms] cs
+http://tv.nxog.top/m/
 
 [1011ms] 俊哥接口
 http://home.jundie.top:81/top98.json
 
-[1083ms] fmys
-http://fmys.top/fmys.json
-
-[1144ms] cs
-http://tv.nxog.top/m/
-
-[1145ms] 欧歌接口
+[1105ms] 欧歌接口
 https://xn--sdds-rp5imh.v.nxog.top/apitv.php?id=3
 
-[1463ms] xn--6orr3pi6g9uu
-http://xn--6orr3pi6g9uu.top/
+[1106ms] 少儿频道
+https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer
 
-[1547ms] 宝盒接口
+[1234ms] fmys
+http://fmys.top/fmys.json
+
+[1390ms] 宝盒接口
 http://宝盒接口.top
 
-[1797ms] 新接口
-https://www.iyouhun.com/tv/wex
+[1394ms] http://www.xn--sss604efuw.net/tv
+http://www.xn--sss604efuw.net/tv
 
-[1829ms] 1
-https://700sjro44343.vicp.fun/vip/vip/tv.json
+[1526ms] xn--6orr3pi6g9uu
+http://xn--6orr3pi6g9uu.top/
 
-[1858ms] uuccc
-http://xn--5mqx81b535a.com/
-
-[1870ms] 金鹰
-http://550.3vcn.work/wdjyys.json
-
-[1884ms] 二月红接口
-https://700sjro44343.vicp.fun/eggp/0211/tv.json
-
-[1970ms] 欧歌免费
+[1744ms] 欧歌免费
 https://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=tv
 
-[2161ms] 66
-https://raw.gitcode.com/jvftibcs-jbduyh/021/raw/main/18.json
-
-[2441ms] 影视仓
+[1864ms] 影视仓
 http://影视仓.com/
 
-[2544ms] https://700sjro44343.vicp.fun/eggp/0615/tv.php
-https://700sjro44343.vicp.fun/eggp/0615/tv.php
+[1885ms] 1
+https://700sjro44343.vicp.fun/vip/vip/tv.json
 
-[7040ms] 2
+[1963ms] 二月红接口
+https://700sjro44343.vicp.fun/eggp/0211/tv.json
+
+[1981ms] uuccc
+http://xn--5mqx81b535a.com/
+
+[1989ms] 66
+https://raw.gitcode.com/jvftibcs-jbduyh/021/raw/main/18.json
+
+[2096ms] 新接口
+https://www.iyouhun.com/tv/wex
+
+[2873ms] 金鹰
+http://550.3vcn.work/wdjyys.json
+
+[5720ms] 2
 https://gitee.com/fuleishu/fulei/raw/master/fuleixyx.json
 
