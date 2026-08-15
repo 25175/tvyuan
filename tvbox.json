@@ -3,7 +3,7 @@
   "sites": [
     {
       "key": "🍚玛丽┃秒播",
-      "name": "[540KB/s|2059ms|稳] 🍚玛丽┃秒播",
+      "name": "[509KB/s|30950ms|稳] 🍚玛丽┃秒播",
       "type": 1,
       "api": "https://360zy.com/api.php/provide/vod",
       "searchable": 1,
@@ -12,7 +12,7 @@
     },
     {
       "key": "🦚360┃采集",
-      "name": "[527KB/s|2680ms|稳] 🦚360┃采集",
+      "name": "[501KB/s|4373ms|稳] 🦚360┃采集",
       "type": 1,
       "api": "https://360zy.com/api.php/provide/vod?",
       "searchable": 1,
@@ -21,7 +21,7 @@
     },
     {
       "key": "🥣爱坤┃影视",
-      "name": "[4355KB/s|507ms|稳] 🥣爱坤┃影视",
+      "name": "[2126KB/s|423ms|稳] 🥣爱坤┃影视",
       "type": 1,
       "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json",
       "searchable": 1,
@@ -29,17 +29,8 @@
       "filterable": 0
     },
     {
-      "key": "🎀极速┃采集",
-      "name": "[3776KB/s|491ms|稳] 🎀极速┃采集",
-      "type": 1,
-      "api": "https://jszyapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
       "key": "🦚量子┃采集",
-      "name": "[674KB/s|1729ms|稳] 🦚量子┃采集",
+      "name": "[526KB/s|827ms|稳] 🦚量子┃采集",
       "type": 0,
       "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
@@ -48,7 +39,7 @@
     },
     {
       "key": "🔃量子┃资源",
-      "name": "[608KB/s|1248ms|稳] 🔃量子┃资源",
+      "name": "[515KB/s|1395ms|稳] 🔃量子┃资源",
       "type": 1,
       "api": "http://cj.lziapi.com/api.php/provide/vod/",
       "searchable": 1,
@@ -57,7 +48,7 @@
     },
     {
       "key": "🦔暴風┃采集",
-      "name": "[332KB/s|6524ms|中] 🦔暴風┃采集",
+      "name": "[204KB/s|1544ms|中] 🦔暴風┃采集",
       "type": 1,
       "api": "https://bfzyapi.com/api.php/provide/vod",
       "searchable": 1,
