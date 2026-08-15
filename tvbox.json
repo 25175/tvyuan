@@ -2,17 +2,8 @@
   "spider": "",
   "sites": [
     {
-      "key": "🍚玛丽┃秒播",
-      "name": "[265KB/s|18104ms|中] 🍚玛丽┃秒播",
-      "type": 1,
-      "api": "https://360zy.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
       "key": "🦚360┃采集",
-      "name": "[255KB/s|2222ms|中] 🦚360┃采集",
+      "name": "[274KB/s|6450ms|中] 🦚360┃采集",
       "type": 1,
       "api": "https://360zy.com/api.php/provide/vod?",
       "searchable": 1,
@@ -20,8 +11,53 @@
       "filterable": 0
     },
     {
+      "key": "360┃直连",
+      "name": "[268KB/s|2518ms|中] 360┃直连",
+      "type": 1,
+      "api": "https://360zy.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "360",
+      "name": "[264KB/s|3003ms|中] 360",
+      "type": 1,
+      "api": "https://360zy.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "猫眼影视",
+      "name": "[2760KB/s|788ms|稳] 猫眼影视",
+      "type": 1,
+      "api": "https://api.maoyanapi.top/api.php/provide/vod/from/mym3u8/at/json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "iKun资源",
+      "name": "[1239KB/s|400ms|稳] iKun资源",
+      "type": 0,
+      "api": "https://ikunzyapi.com/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "茅台影视",
+      "name": "[1033KB/s|1631ms|稳] 茅台影视",
+      "type": 1,
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod/from/mtm3u8/at/json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
       "key": "🥣爱坤┃影视",
-      "name": "[975KB/s|458ms|稳] 🥣爱坤┃影视",
+      "name": "[880KB/s|560ms|稳] 🥣爱坤┃影视",
       "type": 1,
       "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json",
       "searchable": 1,
@@ -30,9 +66,27 @@
     },
     {
       "key": "🦔暴風┃采集",
-      "name": "[663KB/s|1606ms|稳] 🦔暴風┃采集",
+      "name": "[676KB/s|1307ms|稳] 🦔暴風┃采集",
       "type": 1,
       "api": "https://bfzyapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "暴风影视",
+      "name": "[676KB/s|1455ms|稳] 暴风影视",
+      "type": 0,
+      "api": "http://by.bfzyapi.com/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "豆瓣影视",
+      "name": "[636KB/s|964ms|稳] 豆瓣影视",
+      "type": 0,
+      "api": "https://caiji.dbzy5.com/api.php/provide/vod/from/dbm3u8/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
