@@ -3,7 +3,7 @@
   "sites": [
     {
       "key": "360资源",
-      "name": "[329KB/s|2481ms|中] 360资源",
+      "name": "[313KB/s|1946ms|中] 360资源",
       "type": 1,
       "api": "https://360zy.com/api.php/provide/vod",
       "searchable": 1,
@@ -12,7 +12,7 @@
     },
     {
       "key": "🍊细胞",
-      "name": "[9433KB/s|211ms|稳] 🍊细胞",
+      "name": "[4119KB/s|255ms|稳] 🍊细胞",
       "type": 1,
       "api": "https://www.xxibaozyw.com/api.php/provide/vod",
       "searchable": 1,
@@ -21,7 +21,7 @@
     },
     {
       "key": "🍏无印",
-      "name": "[6441KB/s|970ms|稳] 🍏无印",
+      "name": "[2560KB/s|779ms|稳] 🍏无印",
       "type": 1,
       "api": "https://api.wsyzy.net/api.php/provide/vod/",
       "searchable": 1,
@@ -29,44 +29,35 @@
       "filterable": 0
     },
     {
-      "key": "👖裤佬丨采集",
-      "name": "[5985KB/s|777ms|稳] 👖裤佬丨采集",
+      "key": "*91麻豆",
+      "name": "[2051KB/s|433ms|稳] *91麻豆",
       "type": 1,
-      "api": "https://api.wsyzy.net/api.php/provide/vod",
+      "api": "https://91md.me/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
     },
     {
-      "key": "美少女资源(已修复)",
-      "name": "[2304KB/s|485ms|稳] 美少女资源(已修复)",
-      "type": 0,
-      "api": "https://www.msnii.com/api/xml.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "白嫖资源(已修复)",
-      "name": "[1841KB/s|354ms|稳] 白嫖资源(已修复)",
-      "type": 0,
-      "api": "https://www.kxgav.com/api/xml.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "🍏魔都🪜",
-      "name": "[1534KB/s|825ms|稳] 🍏魔都🪜",
+      "key": "🍊19",
+      "name": "[1901KB/s|429ms|稳] 🍊19",
       "type": 1,
-      "api": "https://www.moduzy.com/api.php/provide/vod",
+      "api": "https://19q.cc/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "杏吧资源",
+      "name": "[1703KB/s|8150ms|稳] 杏吧资源",
+      "type": 0,
+      "api": "https://xingba222.com/api.php/provide/vod/at/xml",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
     },
     {
       "key": "魔都资源",
-      "name": "[1469KB/s|930ms|稳] 魔都资源",
+      "name": "[1607KB/s|717ms|稳] 魔都资源",
       "type": 1,
       "api": "https://www.mdzyapi.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -75,7 +66,7 @@
     },
     {
       "key": "🍊鸡坤",
-      "name": "[1440KB/s|873ms|稳] 🍊鸡坤",
+      "name": "[1530KB/s|864ms|稳] 🍊鸡坤",
       "type": 1,
       "api": "https://jkunzyapi.com/api.php/provide/vod/at/json",
       "searchable": 1,
@@ -83,10 +74,19 @@
       "filterable": 0
     },
     {
-      "key": "采集视频3",
-      "name": "[1098KB/s|930ms|稳] 采集视频3",
+      "key": "🍏魔都🪜",
+      "name": "[1530KB/s|1015ms|稳] 🍏魔都🪜",
       "type": 1,
-      "api": "https://ikunzyapi.com/api.php/provide/vod",
+      "api": "https://www.moduzy.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "🍏如意",
+      "name": "[1515KB/s|1429ms|稳] 🍏如意",
+      "type": 1,
+      "api": "https://cj.rycjapi.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
