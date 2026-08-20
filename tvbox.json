@@ -2,17 +2,8 @@
   "spider": "",
   "sites": [
     {
-      "key": "🦚360┃采集",
-      "name": "[87KB/s|2258ms|慢] 🦚360┃采集",
-      "type": 1,
-      "api": "https://360zy.com/api.php/provide/vod?",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
       "key": "360资源",
-      "name": "[85KB/s|2205ms|慢] 360资源",
+      "name": "[1KB/s|32027ms|慢] 360资源",
       "type": 1,
       "api": "https://360zy.com/api.php/provide/vod",
       "searchable": 1,
@@ -20,62 +11,17 @@
       "filterable": 0
     },
     {
-      "key": "🍏如意",
-      "name": "[4716KB/s|1096ms|稳] 🍏如意",
+      "key": "🍊越南",
+      "name": "[6813KB/s|519ms|稳] 🍊越南",
       "type": 1,
-      "api": "https://cj.rycjapi.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "🌼如意┃影视🌼",
-      "name": "[4561KB/s|1057ms|稳] 🌼如意┃影视🌼",
-      "type": 1,
-      "api": "http://cj.rycjapi.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "🍊精东",
-      "name": "[4388KB/s|171ms|稳] 🍊精东",
-      "type": 1,
-      "api": "http://chujia.cc/api.php/provide/vod/from/m3u8/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "👖裤佬丨采集",
-      "name": "[4225KB/s|575ms|稳] 👖裤佬丨采集",
-      "type": 1,
-      "api": "https://api.wsyzy.net/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "🍏无印",
-      "name": "[3988KB/s|717ms|稳] 🍏无印",
-      "type": 1,
-      "api": "https://api.wsyzy.net/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "🍊细胞",
-      "name": "[3420KB/s|131ms|稳] 🍊细胞",
-      "type": 1,
-      "api": "https://www.xxibaozyw.com/api.php/provide/vod",
+      "api": "https://vnzyz.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
     },
     {
       "key": "*91麻豆",
-      "name": "[3414KB/s|270ms|稳] *91麻豆",
+      "name": "[4625KB/s|273ms|稳] *91麻豆",
       "type": 1,
       "api": "https://91md.me/api.php/provide/vod/",
       "searchable": 1,
@@ -83,10 +29,64 @@
       "filterable": 0
     },
     {
+      "key": "黄AV资源(已修复)",
+      "name": "[3809KB/s|281ms|稳] 黄AV资源(已修复)",
+      "type": 0,
+      "api": "https://www.pgxdy.com/api/xml.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "🍊精东",
+      "name": "[3726KB/s|243ms|稳] 🍊精东",
+      "type": 1,
+      "api": "http://chujia.cc/api.php/provide/vod/from/m3u8/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "美少女资源(已修复)",
+      "name": "[3634KB/s|442ms|稳] 美少女资源(已修复)",
+      "type": 0,
+      "api": "https://www.msnii.com/api/xml.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "淫水机资源(已修复)",
+      "name": "[3154KB/s|431ms|稳] 淫水机资源(已修复)",
+      "type": 0,
+      "api": "https://www.xrbsp.com/api/xml.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
       "key": "🍊19",
-      "name": "[3015KB/s|302ms|稳] 🍊19",
+      "name": "[2366KB/s|271ms|稳] 🍊19",
       "type": 1,
       "api": "https://19q.cc/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "白嫖资源(已修复)",
+      "name": "[1912KB/s|236ms|稳] 白嫖资源(已修复)",
+      "type": 0,
+      "api": "https://www.kxgav.com/api/xml.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "🍊鸡坤",
+      "name": "[1519KB/s|890ms|稳] 🍊鸡坤",
+      "type": 1,
+      "api": "https://jkunzyapi.com/api.php/provide/vod/at/json",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
