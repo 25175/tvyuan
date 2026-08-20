@@ -3,7 +3,7 @@
   "sites": [
     {
       "key": "360资源",
-      "name": "[3KB/s|30853ms|慢] 360资源",
+      "name": "[9KB/s|2051ms|慢] 360资源",
       "type": 1,
       "api": "https://360zy.com/api.php/provide/vod",
       "searchable": 1,
@@ -12,7 +12,7 @@
     },
     {
       "key": "🍊越南",
-      "name": "[10596KB/s|393ms|稳] 🍊越南",
+      "name": "[11667KB/s|369ms|稳] 🍊越南",
       "type": 1,
       "api": "https://vnzyz.com/api.php/provide/vod",
       "searchable": 1,
@@ -20,17 +20,8 @@
       "filterable": 0
     },
     {
-      "key": "🍏无印",
-      "name": "[8242KB/s|937ms|稳] 🍏无印",
-      "type": 1,
-      "api": "https://api.wsyzy.net/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
       "key": "👖裤佬丨采集",
-      "name": "[7969KB/s|1049ms|稳] 👖裤佬丨采集",
+      "name": "[7651KB/s|962ms|稳] 👖裤佬丨采集",
       "type": 1,
       "api": "https://api.wsyzy.net/api.php/provide/vod",
       "searchable": 1,
@@ -38,8 +29,17 @@
       "filterable": 0
     },
     {
-      "key": "黄AV",
-      "name": "[5924KB/s|251ms|稳] 黄AV",
+      "key": "🍏无印",
+      "name": "[6312KB/s|947ms|稳] 🍏无印",
+      "type": 1,
+      "api": "https://api.wsyzy.net/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "黄AV资源(已修复)",
+      "name": "[5239KB/s|246ms|稳] 黄AV资源(已修复)",
       "type": 0,
       "api": "https://www.pgxdy.com/api/xml.php",
       "searchable": 1,
@@ -47,26 +47,8 @@
       "filterable": 0
     },
     {
-      "key": "🍊细胞",
-      "name": "[4714KB/s|170ms|稳] 🍊细胞",
-      "type": 1,
-      "api": "https://www.xxibaozyw.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "淫水机",
-      "name": "[4571KB/s|281ms|稳] 淫水机",
-      "type": 0,
-      "api": "https://www.xrbsp.com/api/xml.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "白嫖",
-      "name": "[4143KB/s|233ms|稳] 白嫖",
+      "key": "白嫖资源(已修复)",
+      "name": "[5122KB/s|183ms|稳] 白嫖资源(已修复)",
       "type": 0,
       "api": "https://www.kxgav.com/api/xml.php",
       "searchable": 1,
@@ -74,8 +56,26 @@
       "filterable": 0
     },
     {
-      "key": "美少女",
-      "name": "[3884KB/s|326ms|稳] 美少女",
+      "key": "🍊细胞",
+      "name": "[4710KB/s|123ms|稳] 🍊细胞",
+      "type": 1,
+      "api": "https://www.xxibaozyw.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "淫水机资源(已修复)",
+      "name": "[3890KB/s|136ms|稳] 淫水机资源(已修复)",
+      "type": 0,
+      "api": "https://www.xrbsp.com/api/xml.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "美少女资源(已修复)",
+      "name": "[3812KB/s|320ms|稳] 美少女资源(已修复)",
       "type": 0,
       "api": "https://www.msnii.com/api/xml.php",
       "searchable": 1,
@@ -83,10 +83,10 @@
       "filterable": 0
     },
     {
-      "key": "🥣爱坤┃影视",
-      "name": "[1936KB/s|1076ms|稳] 🥣爱坤┃影视",
+      "key": "🍏光速",
+      "name": "[1706KB/s|590ms|稳] 🍏光速",
       "type": 1,
-      "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json",
+      "api": "https://api.guangsuapi.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
