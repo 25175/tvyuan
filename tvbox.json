@@ -3,7 +3,7 @@
   "sites": [
     {
       "key": "360资源",
-      "name": "[159KB/s|3592ms|中] 360资源",
+      "name": "[161KB/s|4270ms|中] 360资源",
       "type": 1,
       "api": "https://360zy.com/api.php/provide/vod",
       "searchable": 1,
@@ -12,7 +12,7 @@
     },
     {
       "key": "🦚360┃采集",
-      "name": "[51KB/s|4156ms|慢] 🦚360┃采集",
+      "name": "[159KB/s|9803ms|中] 🦚360┃采集",
       "type": 1,
       "api": "https://360zy.com/api.php/provide/vod?",
       "searchable": 1,
@@ -20,53 +20,44 @@
       "filterable": 0
     },
     {
-      "key": "金鹰影视",
-      "name": "[9173KB/s|715ms|稳] 金鹰影视",
+      "key": "🍊鸡坤",
+      "name": "[17501KB/s|162ms|稳] 🍊鸡坤",
+      "type": 1,
+      "api": "https://jkunzyapi.com/api.php/provide/vod/at/json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "iKun资源",
+      "name": "[7780KB/s|409ms|稳] iKun资源",
       "type": 0,
-      "api": "https://jyzyapi.com/provide/vod/from/jinyingm3u8/at/xml/",
+      "api": "https://ikunzyapi.com/api.php/provide/vod/at/xml",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
     },
     {
-      "key": "🍏新浪",
-      "name": "[9030KB/s|3141ms|稳] 🍏新浪",
+      "key": "🍏速播",
+      "name": "[7095KB/s|448ms|稳] 🍏速播",
       "type": 1,
-      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
+      "api": "https://subocaiji.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
     },
     {
-      "key": "豆瓣采集3",
-      "name": "[7643KB/s|536ms|稳] 豆瓣采集3",
+      "key": "🥣爱坤┃影视",
+      "name": "[6980KB/s|514ms|稳] 🥣爱坤┃影视",
       "type": 1,
-      "api": "https://caiji.dbzy5.com/api.php/provide/vod/at/json/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "🍊奶香🪜",
-      "name": "[7327KB/s|241ms|稳] 🍊奶香🪜",
-      "type": 1,
-      "api": "https://Naixxzy.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "豆瓣采集",
-      "name": "[6524KB/s|345ms|稳] 豆瓣采集",
-      "type": 0,
-      "api": "https://caiji.dbzy5.com/api.php/provide/vod/at/xml/",
+      "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
     },
     {
       "key": "🌼如意┃影视🌼",
-      "name": "[6275KB/s|860ms|稳] 🌼如意┃影视🌼",
+      "name": "[6652KB/s|848ms|稳] 🌼如意┃影视🌼",
       "type": 1,
       "api": "http://cj.rycjapi.com/api.php/provide/vod",
       "searchable": 1,
@@ -74,19 +65,28 @@
       "filterable": 0
     },
     {
-      "key": "IK",
-      "name": "[6073KB/s|353ms|稳] IK",
+      "key": "🍊19",
+      "name": "[6514KB/s|269ms|稳] 🍊19",
       "type": 1,
-      "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/",
+      "api": "https://19q.cc/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
     },
     {
-      "key": "🍊鸡坤",
-      "name": "[5738KB/s|217ms|稳] 🍊鸡坤",
+      "key": "🍏新浪",
+      "name": "[6472KB/s|372ms|稳] 🍏新浪",
       "type": 1,
-      "api": "https://jkunzyapi.com/api.php/provide/vod/at/json",
+      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "*91麻豆",
+      "name": "[6454KB/s|253ms|稳] *91麻豆",
+      "type": 1,
+      "api": "https://91md.me/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
