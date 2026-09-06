@@ -3,7 +3,7 @@
   "sites": [
     {
       "key": "360资源",
-      "name": "[556KB/s|2346ms|稳] 360资源",
+      "name": "[756KB/s|1892ms|稳] 360资源",
       "type": 1,
       "api": "https://360zy.com/api.php/provide/vod",
       "searchable": 1,
@@ -11,8 +11,17 @@
       "filterable": 0
     },
     {
+      "key": "🦚360┃采集",
+      "name": "[727KB/s|1736ms|稳] 🦚360┃采集",
+      "type": 1,
+      "api": "https://360zy.com/api.php/provide/vod?",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
       "key": "👖裤佬丨采集",
-      "name": "[4763KB/s|972ms|稳] 👖裤佬丨采集",
+      "name": "[10088KB/s|1159ms|稳] 👖裤佬丨采集",
       "type": 1,
       "api": "https://api.wsyzy.net/api.php/provide/vod",
       "searchable": 1,
@@ -20,44 +29,17 @@
       "filterable": 0
     },
     {
-      "key": "茅台资源",
-      "name": "[3490KB/s|287ms|稳] 茅台资源",
+      "key": "🍏无印",
+      "name": "[7320KB/s|1110ms|稳] 🍏无印",
       "type": 1,
-      "api": "https://caiji.maotaizy.cc/api.php/provide/vod/at/josn/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "🥣爱坤┃影视",
-      "name": "[3390KB/s|603ms|稳] 🥣爱坤┃影视",
-      "type": 1,
-      "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "🍏爱坤",
-      "name": "[3274KB/s|677ms|稳] 🍏爱坤",
-      "type": 1,
-      "api": "https://ikunzyapi.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "🍏茅台",
-      "name": "[3255KB/s|282ms|稳] 🍏茅台",
-      "type": 1,
-      "api": "https://caiji.maotaizy.cc/api.php/provide/vod/from/mtm3u8/at/josn",
+      "api": "https://api.wsyzy.net/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
     },
     {
       "key": "茅台影视",
-      "name": "[3152KB/s|283ms|稳] 茅台影视",
+      "name": "[2120KB/s|392ms|稳] 茅台影视",
       "type": 1,
       "api": "https://caiji.maotaizy.cc/api.php/provide/vod/from/mtm3u8/at/json",
       "searchable": 1,
@@ -65,17 +47,17 @@
       "filterable": 0
     },
     {
-      "key": "iKun资源",
-      "name": "[2979KB/s|1083ms|稳] iKun资源",
-      "type": 0,
-      "api": "https://ikunzyapi.com/api.php/provide/vod/at/xml",
+      "key": "茅台资源",
+      "name": "[2051KB/s|395ms|稳] 茅台资源",
+      "type": 1,
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod/at/josn/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
     },
     {
       "key": "烂大街",
-      "name": "[2900KB/s|701ms|稳] 烂大街",
+      "name": "[1989KB/s|754ms|稳] 烂大街",
       "type": 1,
       "api": "https://www.huyaapi.com/api.php/provide/vod/",
       "searchable": 1,
@@ -83,10 +65,28 @@
       "filterable": 0
     },
     {
+      "key": "🍏茅台",
+      "name": "[1968KB/s|377ms|稳] 🍏茅台",
+      "type": 1,
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod/from/mtm3u8/at/josn",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
       "key": "IK",
-      "name": "[2652KB/s|721ms|稳] IK",
+      "name": "[1935KB/s|764ms|稳] IK",
       "type": 1,
       "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "🍏红牛",
+      "name": "[1920KB/s|3589ms|稳] 🍏红牛",
+      "type": 1,
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
