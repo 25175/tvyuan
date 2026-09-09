@@ -3,7 +3,7 @@
   "sites": [
     {
       "key": "360资源",
-      "name": "[397KB/s|1561ms|中] 360资源",
+      "name": "[263KB/s|2408ms|中] 360资源",
       "type": 1,
       "api": "https://360zy.com/api.php/provide/vod",
       "searchable": 1,
@@ -11,44 +11,44 @@
       "filterable": 0
     },
     {
-      "key": "🍏无印",
-      "name": "[8669KB/s|1133ms|稳] 🍏无印",
-      "type": 1,
-      "api": "https://api.wsyzy.net/api.php/provide/vod/",
+      "key": "白嫖",
+      "name": "[8091KB/s|230ms|稳] 白嫖",
+      "type": 0,
+      "api": "https://www.kxgav.com/api/xml.php",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
     },
     {
-      "key": "👖裤佬丨采集",
-      "name": "[8259KB/s|1242ms|稳] 👖裤佬丨采集",
+      "key": "🍏虎牙",
+      "name": "[7037KB/s|1494ms|稳] 🍏虎牙",
       "type": 1,
-      "api": "https://api.wsyzy.net/api.php/provide/vod",
+      "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8/at/json",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
     },
     {
-      "key": "*91麻豆",
-      "name": "[5023KB/s|213ms|稳] *91麻豆",
+      "key": "🍏如意",
+      "name": "[7029KB/s|906ms|稳] 🍏如意",
       "type": 1,
-      "api": "https://91md.me/api.php/provide/vod/",
+      "api": "https://cj.rycjapi.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
     },
     {
-      "key": "🍏魔都",
-      "name": "[1715KB/s|971ms|稳] 🍏魔都",
+      "key": "🍏速播",
+      "name": "[6742KB/s|394ms|稳] 🍏速播",
       "type": 1,
-      "api": "https://www.moduzy.com/api.php/provide/vod",
+      "api": "https://subocaiji.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
     },
     {
-      "key": "🍏红牛",
-      "name": "[1692KB/s|2908ms|稳] 🍏红牛",
+      "key": "🎀红牛┃采集",
+      "name": "[6705KB/s|3485ms|稳] 🎀红牛┃采集",
       "type": 1,
       "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
       "searchable": 1,
@@ -56,17 +56,26 @@
       "filterable": 0
     },
     {
-      "key": "🍊鸡坤",
-      "name": "[1576KB/s|714ms|稳] 🍊鸡坤",
+      "key": "🍏金鹰",
+      "name": "[6530KB/s|2061ms|稳] 🍏金鹰",
       "type": 1,
-      "api": "https://jkunzyapi.com/api.php/provide/vod/at/json",
+      "api": "https://jyzyapi.com/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "*91麻豆",
+      "name": "[5703KB/s|282ms|稳] *91麻豆",
+      "type": 1,
+      "api": "https://91md.me/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
     },
     {
       "key": "🍊19",
-      "name": "[1452KB/s|254ms|稳] 🍊19",
+      "name": "[5432KB/s|253ms|稳] 🍊19",
       "type": 1,
       "api": "https://19q.cc/api.php/provide/vod",
       "searchable": 1,
@@ -74,19 +83,10 @@
       "filterable": 0
     },
     {
-      "key": "🥣爱坤┃影视",
-      "name": "[1284KB/s|923ms|稳] 🥣爱坤┃影视",
+      "key": "🍊鸡坤",
+      "name": "[3758KB/s|345ms|稳] 🍊鸡坤",
       "type": 1,
-      "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "IK",
-      "name": "[1203KB/s|990ms|稳] IK",
-      "type": 1,
-      "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/",
+      "api": "https://jkunzyapi.com/api.php/provide/vod/at/json",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
