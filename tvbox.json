@@ -3,7 +3,7 @@
   "sites": [
     {
       "key": "360资源",
-      "name": "[138KB/s|2308ms|中] 360资源",
+      "name": "[406KB/s|2032ms|中] 360资源",
       "type": 1,
       "api": "https://360zy.com/api.php/provide/vod",
       "searchable": 1,
@@ -11,26 +11,17 @@
       "filterable": 0
     },
     {
-      "key": "🍏无印",
-      "name": "[5208KB/s|1317ms|稳] 🍏无印",
+      "key": "🦚360┃采集",
+      "name": "[405KB/s|2574ms|中] 🦚360┃采集",
       "type": 1,
-      "api": "https://api.wsyzy.net/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "🍊细胞",
-      "name": "[4777KB/s|196ms|稳] 🍊细胞",
-      "type": 1,
-      "api": "https://www.xxibaozyw.com/api.php/provide/vod",
+      "api": "https://360zy.com/api.php/provide/vod?",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
     },
     {
       "key": "👖裤佬丨采集",
-      "name": "[3930KB/s|1050ms|稳] 👖裤佬丨采集",
+      "name": "[6740KB/s|487ms|稳] 👖裤佬丨采集",
       "type": 1,
       "api": "https://api.wsyzy.net/api.php/provide/vod",
       "searchable": 1,
@@ -38,26 +29,35 @@
       "filterable": 0
     },
     {
-      "key": "香奶儿",
-      "name": "[3164KB/s|301ms|稳] 香奶儿",
+      "key": "新浪资源",
+      "name": "[6573KB/s|744ms|稳] 新浪资源",
       "type": 0,
-      "api": "https://www.gdlsp.com/api/xml.php",
+      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
     },
     {
-      "key": "🍊红楼",
-      "name": "[2721KB/s|1177ms|稳] 🍊红楼",
+      "key": "豪华资源",
+      "name": "[6265KB/s|890ms|稳] 豪华资源",
       "type": 1,
-      "api": "https://www.hlzy.store/api.php/provide/vod",
+      "api": "https://hhzyapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "💥┃火狐2K┃有广",
+      "name": "[6203KB/s|861ms|稳] 💥┃火狐2K┃有广",
+      "type": 1,
+      "api": "https://hhzyapi.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
     },
     {
       "key": "🍏火狐",
-      "name": "[1749KB/s|467ms|稳] 🍏火狐",
+      "name": "[4933KB/s|1707ms|稳] 🍏火狐",
       "type": 1,
       "api": "https://hhzyapi.com/api.php/provide/vod/at/json",
       "searchable": 1,
@@ -65,28 +65,28 @@
       "filterable": 0
     },
     {
-      "key": "🔥️火狐┃秒播",
-      "name": "[1747KB/s|480ms|稳] 🔥️火狐┃秒播",
+      "key": "🍊细胞",
+      "name": "[4360KB/s|136ms|稳] 🍊细胞",
       "type": 1,
-      "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list",
+      "api": "https://www.xxibaozyw.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
     },
     {
-      "key": "🍏虎牙",
-      "name": "[1727KB/s|3064ms|稳] 🍏虎牙",
+      "key": "🍏红牛",
+      "name": "[3602KB/s|3689ms|稳] 🍏红牛",
       "type": 1,
-      "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8/at/json",
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
     },
     {
-      "key": "💥┃火狐2K┃有广",
-      "name": "[1710KB/s|426ms|稳] 💥┃火狐2K┃有广",
+      "key": "🍊19",
+      "name": "[3534KB/s|206ms|稳] 🍊19",
       "type": 1,
-      "api": "https://hhzyapi.com/api.php/provide/vod/",
+      "api": "https://19q.cc/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
