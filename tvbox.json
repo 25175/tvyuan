@@ -2,8 +2,35 @@
   "spider": "",
   "sites": [
     {
+      "key": "🐝索尼资源",
+      "name": "[554KB/s|1413ms|稳] 🐝索尼资源",
+      "type": 1,
+      "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "影视 • 率率[直连]",
+      "name": "[397KB/s|1346ms|中] 影视 • 率率[直连]",
+      "type": 1,
+      "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "影视 • 索尼[直连]",
+      "name": "[364KB/s|1795ms|中] 影视 • 索尼[直连]",
+      "type": 0,
+      "api": "https://suoniapi.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
       "key": "360资源",
-      "name": "[405KB/s|1635ms|中] 360资源",
+      "name": "[309KB/s|1668ms|中] 360资源",
       "type": 1,
       "api": "https://360zy.com/api.php/provide/vod",
       "searchable": 1,
@@ -12,7 +39,7 @@
     },
     {
       "key": "👖裤佬丨采集",
-      "name": "[8409KB/s|1166ms|稳] 👖裤佬丨采集",
+      "name": "[12169KB/s|1021ms|稳] 👖裤佬丨采集",
       "type": 1,
       "api": "https://api.wsyzy.net/api.php/provide/vod",
       "searchable": 1,
@@ -20,26 +47,35 @@
       "filterable": 0
     },
     {
-      "key": "🍏无印",
-      "name": "[8012KB/s|945ms|稳] 🍏无印",
+      "key": "🍊19",
+      "name": "[4506KB/s|272ms|稳] 🍊19",
       "type": 1,
-      "api": "https://api.wsyzy.net/api.php/provide/vod/",
+      "api": "https://19q.cc/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
     },
     {
-      "key": "🍊红楼",
-      "name": "[3553KB/s|757ms|稳] 🍊红楼",
+      "key": "*91麻豆",
+      "name": "[4055KB/s|293ms|稳] *91麻豆",
       "type": 1,
-      "api": "https://www.hlzy.store/api.php/provide/vod",
+      "api": "https://91md.me/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "黄AV资源(已修复)",
+      "name": "[2722KB/s|357ms|稳] 黄AV资源(已修复)",
+      "type": 0,
+      "api": "https://www.pgxdy.com/api/xml.php",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
     },
     {
       "key": "🍊细胞",
-      "name": "[3047KB/s|207ms|稳] 🍊细胞",
+      "name": "[2577KB/s|131ms|稳] 🍊细胞",
       "type": 1,
       "api": "https://www.xxibaozyw.com/api.php/provide/vod",
       "searchable": 1,
@@ -47,46 +83,10 @@
       "filterable": 0
     },
     {
-      "key": "烂大街",
-      "name": "[2277KB/s|2681ms|稳] 烂大街",
+      "key": "🍏无印",
+      "name": "[2258KB/s|1184ms|稳] 🍏无印",
       "type": 1,
-      "api": "https://www.huyaapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "🍏虎牙",
-      "name": "[2127KB/s|2587ms|稳] 🍏虎牙",
-      "type": 1,
-      "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8/at/json",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "🔥️火狐┃秒播",
-      "name": "[2032KB/s|371ms|稳] 🔥️火狐┃秒播",
-      "type": 1,
-      "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "豪华资源",
-      "name": "[1986KB/s|379ms|稳] 豪华资源",
-      "type": 1,
-      "api": "https://hhzyapi.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "💥┃火狐2K┃有广",
-      "name": "[1844KB/s|326ms|稳] 💥┃火狐2K┃有广",
-      "type": 1,
-      "api": "https://hhzyapi.com/api.php/provide/vod/",
+      "api": "https://api.wsyzy.net/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
