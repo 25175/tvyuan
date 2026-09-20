@@ -2,17 +2,8 @@
   "spider": "",
   "sites": [
     {
-      "key": "360资源",
-      "name": "[222KB/s|1842ms|中] 360资源",
-      "type": 1,
-      "api": "https://360zy.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
       "key": "🦚360┃采集",
-      "name": "[189KB/s|2358ms|中] 🦚360┃采集",
+      "name": "[205KB/s|1516ms|中] 🦚360┃采集",
       "type": 1,
       "api": "https://360zy.com/api.php/provide/vod?",
       "searchable": 1,
@@ -20,26 +11,44 @@
       "filterable": 0
     },
     {
-      "key": "🍏新浪",
-      "name": "[11024KB/s|477ms|稳] 🍏新浪",
+      "key": "360资源",
+      "name": "[192KB/s|1564ms|中] 360资源",
       "type": 1,
-      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
+      "api": "https://360zy.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
     },
     {
-      "key": "🍏速播",
-      "name": "[9422KB/s|478ms|稳] 🍏速播",
+      "key": "🍊细胞",
+      "name": "[4934KB/s|91ms|稳] 🍊细胞",
       "type": 1,
-      "api": "https://subocaiji.com/api.php/provide/vod/",
+      "api": "https://www.xxibaozyw.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "🍏火狐",
+      "name": "[4750KB/s|539ms|稳] 🍏火狐",
+      "type": 1,
+      "api": "https://hhzyapi.com/api.php/provide/vod/at/json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "🎀红牛┃采集",
+      "name": "[2097KB/s|3185ms|稳] 🎀红牛┃采集",
+      "type": 1,
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
     },
     {
       "key": "🍏虎牙",
-      "name": "[6009KB/s|1817ms|稳] 🍏虎牙",
+      "name": "[1941KB/s|3695ms|稳] 🍏虎牙",
       "type": 1,
       "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8/at/json",
       "searchable": 1,
@@ -47,17 +56,17 @@
       "filterable": 0
     },
     {
-      "key": "💥丨爱看2k丨微广",
-      "name": "[5141KB/s|261ms|稳] 💥丨爱看2k丨微广",
+      "key": "🍏猫眼",
+      "name": "[1913KB/s|576ms|稳] 🍏猫眼",
       "type": 1,
-      "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/",
+      "api": "https://api.maoyanapi.top/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
     },
     {
       "key": "👖裤佬丨采集",
-      "name": "[4863KB/s|380ms|稳] 👖裤佬丨采集",
+      "name": "[1803KB/s|698ms|稳] 👖裤佬丨采集",
       "type": 1,
       "api": "https://api.wsyzy.net/api.php/provide/vod",
       "searchable": 1,
@@ -65,28 +74,19 @@
       "filterable": 0
     },
     {
-      "key": "鸡坤 | 采集",
-      "name": "[4497KB/s|535ms|稳] 鸡坤 | 采集",
+      "key": "💥丨爱看2k丨微广",
+      "name": "[1527KB/s|937ms|稳] 💥丨爱看2k丨微广",
       "type": 1,
-      "api": "https://jkunzyapi.com/api.php/provide/vod/",
+      "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
     },
     {
-      "key": "🥣爱坤┃影视",
-      "name": "[4450KB/s|372ms|稳] 🥣爱坤┃影视",
+      "key": "🍊鸡坤",
+      "name": "[1493KB/s|794ms|稳] 🍊鸡坤",
       "type": 1,
-      "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "🎀光速┃采集",
-      "name": "[4292KB/s|313ms|稳] 🎀光速┃采集",
-      "type": 1,
-      "api": "http://api.guangsuapi.com/api.php/provide/vod/",
+      "api": "https://jkunzyapi.com/api.php/provide/vod/at/json",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
