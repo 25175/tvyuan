@@ -2,17 +2,8 @@
   "spider": "",
   "sites": [
     {
-      "key": "🦚360┃采集",
-      "name": "[232KB/s|2343ms|中] 🦚360┃采集",
-      "type": 1,
-      "api": "https://360zy.com/api.php/provide/vod?",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
       "key": "360资源",
-      "name": "[231KB/s|2070ms|中] 360资源",
+      "name": "[373KB/s|1594ms|中] 360资源",
       "type": 1,
       "api": "https://360zy.com/api.php/provide/vod",
       "searchable": 1,
@@ -21,7 +12,7 @@
     },
     {
       "key": "👖裤佬丨采集",
-      "name": "[5630KB/s|591ms|稳] 👖裤佬丨采集",
+      "name": "[7385KB/s|1040ms|稳] 👖裤佬丨采集",
       "type": 1,
       "api": "https://api.wsyzy.net/api.php/provide/vod",
       "searchable": 1,
@@ -30,7 +21,7 @@
     },
     {
       "key": "烂大街",
-      "name": "[4086KB/s|1694ms|稳] 烂大街",
+      "name": "[2193KB/s|5340ms|稳] 烂大街",
       "type": 1,
       "api": "https://www.huyaapi.com/api.php/provide/vod/",
       "searchable": 1,
@@ -38,17 +29,8 @@
       "filterable": 0
     },
     {
-      "key": "🍏无印",
-      "name": "[4076KB/s|575ms|稳] 🍏无印",
-      "type": 1,
-      "api": "https://api.wsyzy.net/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
       "key": "🍏虎牙",
-      "name": "[3906KB/s|1695ms|稳] 🍏虎牙",
+      "name": "[2062KB/s|2778ms|稳] 🍏虎牙",
       "type": 1,
       "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8/at/json",
       "searchable": 1,
@@ -56,37 +38,55 @@
       "filterable": 0
     },
     {
-      "key": "🍏光速",
-      "name": "[2950KB/s|537ms|稳] 🍏光速",
+      "key": "🍏无印",
+      "name": "[1758KB/s|1054ms|稳] 🍏无印",
       "type": 1,
-      "api": "https://api.guangsuapi.com/api.php/provide/vod/",
+      "api": "https://api.wsyzy.net/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
     },
     {
-      "key": "豪华资源",
-      "name": "[2913KB/s|619ms|稳] 豪华资源",
+      "key": "🍊鸡坤",
+      "name": "[1714KB/s|966ms|稳] 🍊鸡坤",
       "type": 1,
-      "api": "https://hhzyapi.com/api.php/provide/vod",
+      "api": "https://jkunzyapi.com/api.php/provide/vod/at/json",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
     },
     {
-      "key": "🔥️火狐┃秒播",
-      "name": "[2852KB/s|585ms|稳] 🔥️火狐┃秒播",
+      "key": "🍏金鹰",
+      "name": "[1702KB/s|2266ms|稳] 🍏金鹰",
       "type": 1,
-      "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list",
+      "api": "https://jyzyapi.com/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
     },
     {
-      "key": "🍏新浪",
-      "name": "[2746KB/s|576ms|稳] 🍏新浪",
+      "key": "新浪资源",
+      "name": "[1348KB/s|551ms|稳] 新浪资源",
+      "type": 0,
+      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "湿妹 | 采集",
+      "name": "[1212KB/s|8299ms|稳] 湿妹 | 采集",
+      "type": 0,
+      "api": "http://www.afasu.com/api/xml.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "🧿gay┃资源",
+      "name": "[1189KB/s|1178ms|稳] 🧿gay┃资源",
       "type": 1,
-      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
+      "api": "https://slapibf.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
