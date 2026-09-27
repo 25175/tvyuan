@@ -2,44 +2,35 @@
   "spider": "",
   "sites": [
     {
-      "key": "🎀红牛┃采集",
-      "name": "[16902KB/s|2411ms|稳] 🎀红牛┃采集",
+      "key": "🍏无印",
+      "name": "[11041KB/s|1056ms|稳] 🍏无印",
       "type": 1,
-      "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
+      "api": "https://api.wsyzy.net/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
     },
     {
-      "key": "🍏速播",
-      "name": "[15925KB/s|514ms|稳] 🍏速播",
+      "key": "👖裤佬丨采集",
+      "name": "[9079KB/s|876ms|稳] 👖裤佬丨采集",
       "type": 1,
-      "api": "https://subocaiji.com/api.php/provide/vod/",
+      "api": "https://api.wsyzy.net/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
     },
     {
-      "key": "金鹰影视",
-      "name": "[15022KB/s|2321ms|稳] 金鹰影视",
+      "key": "淫水机资源(已修复)",
+      "name": "[3017KB/s|301ms|稳] 淫水机资源(已修复)",
       "type": 0,
-      "api": "https://jyzyapi.com/provide/vod/from/jinyingm3u8/at/xml/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "💥┃火狐2K┃有广",
-      "name": "[13934KB/s|510ms|稳] 💥┃火狐2K┃有广",
-      "type": 1,
-      "api": "https://hhzyapi.com/api.php/provide/vod/",
+      "api": "https://www.xrbsp.com/api/xml.php",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
     },
     {
       "key": "🍏金鹰",
-      "name": "[13141KB/s|2151ms|稳] 🍏金鹰",
+      "name": "[1831KB/s|2576ms|稳] 🍏金鹰",
       "type": 1,
       "api": "https://jyzyapi.com/provide/vod/",
       "searchable": 1,
@@ -47,46 +38,55 @@
       "filterable": 0
     },
     {
-      "key": "🍏虎牙",
-      "name": "[11875KB/s|2201ms|稳] 🍏虎牙",
+      "key": "🎀红牛┃采集",
+      "name": "[1677KB/s|9189ms|稳] 🎀红牛┃采集",
       "type": 1,
-      "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8/at/json",
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
     },
     {
-      "key": "猫眼影视",
-      "name": "[10791KB/s|1045ms|稳] 猫眼影视",
+      "key": "💥丨爱看2k丨微广",
+      "name": "[1615KB/s|806ms|稳] 💥丨爱看2k丨微广",
       "type": 1,
-      "api": "https://api.maoyanapi.top/api.php/provide/vod/from/mym3u8/at/json",
+      "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
     },
     {
-      "key": "豪华资源",
-      "name": "[9996KB/s|2246ms|稳] 豪华资源",
-      "type": 1,
-      "api": "https://hhzyapi.com/api.php/provide/vod",
+      "key": "iKun资源",
+      "name": "[1560KB/s|1035ms|稳] iKun资源",
+      "type": 0,
+      "api": "https://ikunzyapi.com/api.php/provide/vod/at/xml",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
     },
     {
-      "key": "🍏光速",
-      "name": "[9958KB/s|439ms|稳] 🍏光速",
+      "key": "🍊鸡坤",
+      "name": "[1528KB/s|742ms|稳] 🍊鸡坤",
       "type": 1,
-      "api": "https://api.guangsuapi.com/api.php/provide/vod/",
+      "api": "https://jkunzyapi.com/api.php/provide/vod/at/json",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
     },
     {
-      "key": "🔥️火狐┃秒播",
-      "name": "[9914KB/s|550ms|稳] 🔥️火狐┃秒播",
+      "key": "🥣爱坤┃影视",
+      "name": "[1470KB/s|1096ms|稳] 🥣爱坤┃影视",
       "type": 1,
-      "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list",
+      "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "采集视频3",
+      "name": "[1408KB/s|1014ms|稳] 采集视频3",
+      "type": 1,
+      "api": "https://ikunzyapi.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
