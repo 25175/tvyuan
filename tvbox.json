@@ -2,17 +2,8 @@
   "spider": "",
   "sites": [
     {
-      "key": "🦚360┃采集",
-      "name": "[1834KB/s|1211ms|稳] 🦚360┃采集",
-      "type": 1,
-      "api": "https://360zy.com/api.php/provide/vod?",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "360资源",
-      "name": "[1823KB/s|753ms|稳] 360资源",
+      "key": "360",
+      "name": "[623KB/s|4869ms|稳] 360",
       "type": 1,
       "api": "https://360zy.com/api.php/provide/vod",
       "searchable": 1,
@@ -20,73 +11,82 @@
       "filterable": 0
     },
     {
-      "key": "豪华资源",
-      "name": "[1841KB/s|395ms|稳] 豪华资源",
+      "key": "🦚360┃采集",
+      "name": "[547KB/s|1304ms|稳] 🦚360┃采集",
       "type": 1,
-      "api": "https://hhzyapi.com/api.php/provide/vod",
+      "api": "https://360zy.com/api.php/provide/vod?",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
     },
     {
-      "key": "🍏新浪",
-      "name": "[1813KB/s|380ms|稳] 🍏新浪",
+      "key": "360┃直连",
+      "name": "[197KB/s|905ms|中] 360┃直连",
       "type": 1,
-      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
+      "api": "https://360zy.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
     },
     {
-      "key": "🍏魔都",
-      "name": "[1731KB/s|1088ms|稳] 🍏魔都",
+      "key": "🍏无印",
+      "name": "[10109KB/s|908ms|稳] 🍏无印",
       "type": 1,
-      "api": "https://www.moduzy.com/api.php/provide/vod",
+      "api": "https://api.wsyzy.net/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
     },
     {
-      "key": "💥┃火狐2K┃有广",
-      "name": "[1725KB/s|369ms|稳] 💥┃火狐2K┃有广",
+      "key": "👖裤佬丨采集",
+      "name": "[10091KB/s|882ms|稳] 👖裤佬丨采集",
       "type": 1,
-      "api": "https://hhzyapi.com/api.php/provide/vod/",
+      "api": "https://api.wsyzy.net/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
     },
     {
-      "key": "魔都资源",
-      "name": "[1614KB/s|1065ms|稳] 魔都资源",
+      "key": "🍏如意",
+      "name": "[2293KB/s|1719ms|稳] 🍏如意",
       "type": 1,
-      "api": "https://www.mdzyapi.com/api.php/provide/vod/?ac=list",
+      "api": "https://cj.rycjapi.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
     },
     {
-      "key": "鸡坤 | 采集",
-      "name": "[1604KB/s|910ms|稳] 鸡坤 | 采集",
+      "key": "🌼金鹰┃资源🌼",
+      "name": "[1888KB/s|5514ms|稳] 🌼金鹰┃资源🌼",
       "type": 1,
-      "api": "https://jkunzyapi.com/api.php/provide/vod/",
+      "api": "https://jyzyapi.com/provide/vod/from/jinyingm3u8/at/json",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
     },
     {
-      "key": "🍏火狐",
-      "name": "[1586KB/s|2659ms|稳] 🍏火狐",
+      "key": "🎀光速┃采集",
+      "name": "[1627KB/s|487ms|稳] 🎀光速┃采集",
       "type": 1,
-      "api": "https://hhzyapi.com/api.php/provide/vod/at/json",
+      "api": "http://api.guangsuapi.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
     },
     {
-      "key": "🍏速播",
-      "name": "[1517KB/s|362ms|稳] 🍏速播",
+      "key": "🍊鸡坤",
+      "name": "[1530KB/s|836ms|稳] 🍊鸡坤",
       "type": 1,
-      "api": "https://subocaiji.com/api.php/provide/vod/",
+      "api": "https://jkunzyapi.com/api.php/provide/vod/at/json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "🍏光速",
+      "name": "[1458KB/s|382ms|稳] 🍏光速",
+      "type": 1,
+      "api": "https://api.guangsuapi.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
