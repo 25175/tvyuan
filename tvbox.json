@@ -2,26 +2,8 @@
   "spider": "",
   "sites": [
     {
-      "key": "360",
-      "name": "[180KB/s|1415ms|中] 360",
-      "type": 1,
-      "api": "https://360zy.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "360┃直连",
-      "name": "[177KB/s|2121ms|中] 360┃直连",
-      "type": 1,
-      "api": "https://360zy.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
       "key": "🦚360┃采集",
-      "name": "[163KB/s|1458ms|中] 🦚360┃采集",
+      "name": "[471KB/s|1948ms|中] 🦚360┃采集",
       "type": 1,
       "api": "https://360zy.com/api.php/provide/vod?",
       "searchable": 1,
@@ -29,35 +11,26 @@
       "filterable": 0
     },
     {
-      "key": "*91麻豆",
-      "name": "[4191KB/s|230ms|稳] *91麻豆",
+      "key": "360资源",
+      "name": "[459KB/s|2264ms|中] 360资源",
       "type": 1,
-      "api": "https://91md.me/api.php/provide/vod/",
+      "api": "https://360zy.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
     },
     {
-      "key": "🎀光速┃采集",
-      "name": "[2985KB/s|378ms|稳] 🎀光速┃采集",
+      "key": "💥┃火狐2K┃有广",
+      "name": "[3577KB/s|273ms|稳] 💥┃火狐2K┃有广",
       "type": 1,
-      "api": "http://api.guangsuapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "👖裤佬丨采集",
-      "name": "[2776KB/s|868ms|稳] 👖裤佬丨采集",
-      "type": 1,
-      "api": "https://api.wsyzy.net/api.php/provide/vod",
+      "api": "https://hhzyapi.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
     },
     {
       "key": "🎀红牛┃采集",
-      "name": "[1964KB/s|4675ms|稳] 🎀红牛┃采集",
+      "name": "[3447KB/s|3064ms|稳] 🎀红牛┃采集",
       "type": 1,
       "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
       "searchable": 1,
@@ -65,8 +38,17 @@
       "filterable": 0
     },
     {
+      "key": "豪华资源",
+      "name": "[3371KB/s|955ms|稳] 豪华资源",
+      "type": 1,
+      "api": "https://hhzyapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
       "key": "鸡坤 | 采集",
-      "name": "[1815KB/s|660ms|稳] 鸡坤 | 采集",
+      "name": "[3133KB/s|383ms|稳] 鸡坤 | 采集",
       "type": 1,
       "api": "https://jkunzyapi.com/api.php/provide/vod/",
       "searchable": 1,
@@ -74,19 +56,37 @@
       "filterable": 0
     },
     {
-      "key": "光速资源2",
-      "name": "[1517KB/s|4549ms|稳] 光速资源2",
+      "key": "💥丨爱看2k丨微广",
+      "name": "[3118KB/s|555ms|稳] 💥丨爱看2k丨微广",
       "type": 1,
-      "api": "https://api.guangsuapi.com/api.php/provide/vod/",
+      "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
     },
     {
-      "key": "采集视频3",
-      "name": "[1446KB/s|961ms|稳] 采集视频3",
+      "key": "影视 • 极速[直连]",
+      "name": "[3080KB/s|386ms|稳] 影视 • 极速[直连]",
       "type": 1,
-      "api": "https://ikunzyapi.com/api.php/provide/vod",
+      "api": "https://jszyapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "👖裤佬丨采集",
+      "name": "[2954KB/s|616ms|稳] 👖裤佬丨采集",
+      "type": 1,
+      "api": "https://api.wsyzy.net/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "*91麻豆",
+      "name": "[2408KB/s|350ms|稳] *91麻豆",
+      "type": 1,
+      "api": "https://91md.me/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
