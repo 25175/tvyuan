@@ -3,16 +3,7 @@
   "sites": [
     {
       "key": "360资源",
-      "name": "[1013KB/s|1797ms|稳] 360资源",
-      "type": 1,
-      "api": "https://360zy.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "360",
-      "name": "[976KB/s|1973ms|稳] 360",
+      "name": "[855KB/s|1557ms|稳] 360资源",
       "type": 1,
       "api": "https://360zy.com/api.php/provide/vod",
       "searchable": 1,
@@ -20,17 +11,17 @@
       "filterable": 0
     },
     {
-      "key": "360┃直连",
-      "name": "[962KB/s|1697ms|稳] 360┃直连",
+      "key": "360资源",
+      "name": "[840KB/s|1744ms|稳] 360资源",
       "type": 1,
-      "api": "https://360zy.com/api.php/provide/vod/",
+      "api": "https://360zy.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
     },
     {
       "key": "🦚360┃采集",
-      "name": "[917KB/s|1638ms|稳] 🦚360┃采集",
+      "name": "[810KB/s|1925ms|稳] 🦚360┃采集",
       "type": 1,
       "api": "https://360zy.com/api.php/provide/vod?",
       "searchable": 1,
@@ -38,26 +29,8 @@
       "filterable": 0
     },
     {
-      "key": "💥丨爱看2k丨微广",
-      "name": "[2894KB/s|698ms|稳] 💥丨爱看2k丨微广",
-      "type": 1,
-      "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "采集视频3",
-      "name": "[2677KB/s|783ms|稳] 采集视频3",
-      "type": 1,
-      "api": "https://ikunzyapi.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
       "key": "🥣爱坤┃影视",
-      "name": "[2609KB/s|897ms|稳] 🥣爱坤┃影视",
+      "name": "[4371KB/s|662ms|稳] 🥣爱坤┃影视",
       "type": 1,
       "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json",
       "searchable": 1,
@@ -65,8 +38,17 @@
       "filterable": 0
     },
     {
+      "key": "采集视频3",
+      "name": "[4231KB/s|706ms|稳] 采集视频3",
+      "type": 1,
+      "api": "https://ikunzyapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
       "key": "iKun资源",
-      "name": "[2450KB/s|820ms|稳] iKun资源",
+      "name": "[4047KB/s|843ms|稳] iKun资源",
       "type": 0,
       "api": "https://ikunzyapi.com/api.php/provide/vod/at/xml",
       "searchable": 1,
@@ -74,19 +56,37 @@
       "filterable": 0
     },
     {
-      "key": "🎀红牛┃采集",
-      "name": "[2353KB/s|4033ms|稳] 🎀红牛┃采集",
-      "type": 1,
-      "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
+      "key": "金鹰影视",
+      "name": "[3961KB/s|2124ms|稳] 金鹰影视",
+      "type": 0,
+      "api": "https://jyzyapi.com/provide/vod/from/jinyingm3u8/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
     },
     {
-      "key": "金鹰影视",
-      "name": "[2045KB/s|3146ms|稳] 金鹰影视",
+      "key": "IK",
+      "name": "[3953KB/s|728ms|稳] IK",
+      "type": 1,
+      "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "新浪资源",
+      "name": "[3932KB/s|534ms|稳] 新浪资源",
       "type": 0,
-      "api": "https://jyzyapi.com/provide/vod/from/jinyingm3u8/at/xml/",
+      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "金鹰资源",
+      "name": "[3746KB/s|2080ms|稳] 金鹰资源",
+      "type": 1,
+      "api": "https://jyzyapi.com/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
