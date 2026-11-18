@@ -2,26 +2,44 @@
   "spider": "",
   "sites": [
     {
-      "key": "速播资源",
-      "name": "[4062KB/s|659ms|稳] 速播资源",
+      "key": "360资源",
+      "name": "[161KB/s|1914ms|中] 360资源",
       "type": 1,
-      "api": "https://subocaiji.com/api.php/provide/vod/?ac=list",
+      "api": "https://360zy.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
     },
     {
-      "key": "奶香 | 采集",
-      "name": "[4055KB/s|1092ms|稳] 奶香 | 采集",
+      "key": "360┃资源",
+      "name": "[150KB/s|1512ms|中] 360┃资源",
       "type": 1,
-      "api": "https://naixxzy.com/api.php/provide/vod/",
+      "api": "https://360zy.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "360资源",
+      "name": "[141KB/s|1914ms|中] 360资源",
+      "type": 1,
+      "api": "https://360zy.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "🦚360┃采集",
+      "name": "[140KB/s|1831ms|中] 🦚360┃采集",
+      "type": 1,
+      "api": "https://360zy.com/api.php/provide/vod?",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
     },
     {
       "key": "速播┃资源",
-      "name": "[3772KB/s|609ms|稳] 速播┃资源",
+      "name": "[3351KB/s|479ms|稳] 速播┃资源",
       "type": 1,
       "api": "https://subocj.com/api.php/provide/vod/",
       "searchable": 1,
@@ -29,17 +47,35 @@
       "filterable": 0
     },
     {
-      "key": "火狐资源",
-      "name": "[3489KB/s|596ms|稳] 火狐资源",
+      "key": "鸡坤 | 采集",
+      "name": "[3031KB/s|938ms|稳] 鸡坤 | 采集",
       "type": 1,
-      "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list",
+      "api": "https://jkunzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "奶香 | 采集",
+      "name": "[2801KB/s|647ms|稳] 奶香 | 采集",
+      "type": 1,
+      "api": "https://naixxzy.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "速播资源",
+      "name": "[2469KB/s|516ms|稳] 速播资源",
+      "type": 1,
+      "api": "https://subocaiji.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
     },
     {
       "key": "魔都资源",
-      "name": "[3259KB/s|984ms|稳] 魔都资源",
+      "name": "[2398KB/s|1171ms|稳] 魔都资源",
       "type": 1,
       "api": "https://www.mdzyapi.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -47,46 +83,10 @@
       "filterable": 0
     },
     {
-      "key": "光速资源2",
-      "name": "[3239KB/s|740ms|稳] 光速资源2",
+      "key": "大奶子 | 采集",
+      "name": "[2246KB/s|775ms|稳] 大奶子 | 采集",
       "type": 1,
-      "api": "https://api.guangsuapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "第一┃资源",
-      "name": "[3141KB/s|578ms|稳] 第一┃资源",
-      "type": 1,
-      "api": "https://caiji.diyizy.net/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "💥┃火狐2K┃有广",
-      "name": "[3107KB/s|617ms|稳] 💥┃火狐2K┃有广",
-      "type": 1,
-      "api": "https://hhzyapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "豪华资源",
-      "name": "[3060KB/s|791ms|稳] 豪华资源",
-      "type": 1,
-      "api": "https://hhzyapi.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "魔都资源采集网",
-      "name": "[3051KB/s|963ms|稳] 魔都资源采集网",
-      "type": 0,
-      "api": "https://www.mdzyapi.com/api.php/provide/vod/at/xml/",
+      "api": "https://apidanaizi.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
