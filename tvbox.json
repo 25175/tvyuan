@@ -2,8 +2,8 @@
   "spider": "",
   "sites": [
     {
-      "key": "360┃直连",
-      "name": "[3021KB/s|2098ms|稳] 360┃直连",
+      "key": "360┃资源",
+      "name": "[451KB/s|3042ms|中] 360┃资源",
       "type": 1,
       "api": "https://360zy.com/api.php/provide/vod/",
       "searchable": 1,
@@ -11,8 +11,17 @@
       "filterable": 0
     },
     {
+      "key": "360资源",
+      "name": "[269KB/s|3043ms|中] 360资源",
+      "type": 1,
+      "api": "https://360zy.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
       "key": "🦚360┃采集",
-      "name": "[717KB/s|2025ms|稳] 🦚360┃采集",
+      "name": "[209KB/s|3757ms|中] 🦚360┃采集",
       "type": 1,
       "api": "https://360zy.com/api.php/provide/vod?",
       "searchable": 1,
@@ -21,16 +30,7 @@
     },
     {
       "key": "360资源",
-      "name": "[681KB/s|1700ms|稳] 360资源",
-      "type": 1,
-      "api": "https://360zy.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "360",
-      "name": "[676KB/s|1767ms|稳] 360",
+      "name": "[107KB/s|2794ms|中] 360资源",
       "type": 1,
       "api": "https://360zy.com/api.php/provide/vod",
       "searchable": 1,
@@ -38,44 +38,8 @@
       "filterable": 0
     },
     {
-      "key": "麒麟┃影音",
-      "name": "[5877KB/s|823ms|稳] 麒麟┃影音",
-      "type": 1,
-      "api": "https://www.qlys.cc/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "嘿嘿 | 采集",
-      "name": "[2947KB/s|777ms|稳] 嘿嘿 | 采集",
-      "type": 1,
-      "api": "https://api.heiapi.cc/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "👖裤佬丨采集",
-      "name": "[2811KB/s|727ms|稳] 👖裤佬丨采集",
-      "type": 1,
-      "api": "https://api.wsyzy.net/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "火速 | 采集",
-      "name": "[2381KB/s|1690ms|稳] 火速 | 采集",
-      "type": 1,
-      "api": "https://api.huosuapi.cc/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
       "key": "奶香 | 采集",
-      "name": "[2079KB/s|912ms|稳] 奶香 | 采集",
+      "name": "[3698KB/s|449ms|稳] 奶香 | 采集",
       "type": 1,
       "api": "https://naixxzy.com/api.php/provide/vod/",
       "searchable": 1,
@@ -83,10 +47,46 @@
       "filterable": 0
     },
     {
+      "key": "金鹰资源",
+      "name": "[3448KB/s|2704ms|稳] 金鹰资源",
+      "type": 1,
+      "api": "https://jyzyapi.com/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
       "key": "鸡坤 | 采集",
-      "name": "[2064KB/s|811ms|稳] 鸡坤 | 采集",
+      "name": "[2990KB/s|703ms|稳] 鸡坤 | 采集",
       "type": 1,
       "api": "https://jkunzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "大奶子 | 采集",
+      "name": "[2762KB/s|324ms|稳] 大奶子 | 采集",
+      "type": 1,
+      "api": "https://apidanaizi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "麒麟┃影音",
+      "name": "[2166KB/s|640ms|稳] 麒麟┃影音",
+      "type": 1,
+      "api": "https://www.qlys.cc/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "如意资源网",
+      "name": "[2086KB/s|1027ms|稳] 如意资源网",
+      "type": 0,
+      "api": "https://cj.rycjapi.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
